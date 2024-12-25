@@ -2,16 +2,6 @@
 
 A social media API built with Node.js, Express.js, and MongoDB. This API is built for developers to use in their projects. It is not meant to be used as a standalone social media platform. This API is still in development and is not ready for production use.
 
-[![Stars](https://img.shields.io/github/stars/nixrajput/social-media-api-nodejs?label=Stars&style=flat)][repo]
-[![Forks](https://img.shields.io/github/forks/nixrajput/social-media-api-nodejs?label=Forks&style=flat)][repo]
-[![Watchers](https://img.shields.io/github/watchers/nixrajput/social-media-api-nodejs?label=Watchers&style=flat)][repo]
-[![Contributors](https://img.shields.io/github/contributors/nixrajput/social-media-api-nodejs?label=Contributors&style=flat)][repo]
-
-[![GitHub last commit](https://img.shields.io/github/last-commit/nixrajput/social-media-api-nodejs?label=Last+Commit&style=flat)][repo]
-[![GitHub issues](https://img.shields.io/github/issues/nixrajput/social-media-api-nodejs?label=Issues&style=flat)][issues]
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/nixrajput/social-media-api-nodejs?label=Pull+Requests&style=flat)][pulls]
-[![GitHub Licence](https://img.shields.io/github/license/nixrajput/social-media-api-nodejs?label=Licence&style=flat)][license]
-
 ## Table of Contents
 
 - [Social Media API](#social-media-api)
@@ -69,7 +59,7 @@ You need to have the following software installed on your computer:
 2. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/nixrajput/social-media-api-nodejs.git
+   git clone https://github.com/suptechie/social-media-api-nodejs.git
    ```
 
 3. Navigate to the project directory:
@@ -221,34 +211,3 @@ Your support empowers me to dedicate more time and resources to improving the pr
 Your sponsorship directly fuels innovation, fosters a vibrant community, and helps maintain the project's high standards of quality. Together, we can shape the future of the projects and make a lasting impact in the open-source community.
 
 Thank you for considering sponsoring my work!
-
-[![Sponsor](https://img.shields.io/static/v1?label=Sponsor&message=%E2%9D%A4&logo=GitHub&color=%23fe8e86)](https://github.com/sponsors/nixrajput)
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nixrajput)
-
-[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/nixrajput)
-
-## Connect With Me
-
-[![GitHub: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=GitHub&logoColor=333&link=https://www.github.com/nixrajput)][github]
-[![Linkedin: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=LinkedIn&logoColor=blue&link=https://www.linkedin.com/in/nixrajput)][linkedin]
-[![Instagram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Instagram&link=https://www.instagram.com/nixrajput)][instagram]
-[![Twitter: nixrajput07](https://img.shields.io/badge/nixrajput-EFF7F6?logo=X&logoColor=333&link=https://x.com/nixrajput)][twitter]
-[![Telegram: nixrajput](https://img.shields.io/badge/nixrajput-EFF7F6?logo=Telegram&link=https://telegram.me/nixrajput)][telegram]
-[![Gmail: nkr.nikhi.nkr@gmail.com](https://img.shields.io/badge/nkr.nikhil.nkr@gmail.com-EFF7F6?logo=Gmail&link=mailto:nkr.nikhil.nkr@gmail.com)][gmail]
-
-## Activities
-
-![Alt](https://repobeats.axiom.co/api/embed/c3dfb333461ededdd3671da9162a49bea38a9126.svg "Repobeats analytics image")
-
-[github]: https://github.com/nixrajput
-[twitter]: https://twitter.com/nixrajput07
-[instagram]: https://instagram.com/nixrajput
-[linkedin]: https://linkedin.com/in/nixrajput
-[telegram]: https://telegram.me/nixrajput
-[gmail]: mailto:nkr.nikhil.nkr@gmail.com
-
-[repo]: https://github.com/nixrajput/social-media-api-nodejs
-[issues]: https://github.com/nixrajput/social-media-api-nodejs/issues
-[pulls]: https://github.com/nixrajput/social-media-api-nodejs/pulls
-[license]: https://github.com/nixrajput/social-media-api-nodejs/blob/master/LICENSE.md
